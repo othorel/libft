@@ -1,6 +1,8 @@
 # 🛠️ Libft - Your First Custom C Library
 
-![Libft Logo](https://velog.velcdn.com/images/paul2021_r/post/41815d69-186e-4ea7-bcb7-53274e491273/libft.png)
+<p align="center">
+  <img src="https://velog.velcdn.com/images/paul2021_r/post/41815d69-186e-4ea7-bcb7-53274e491273/libft.png" />
+</p>
 
 Welcome to **Libft**, your first custom C library! This project is part of the 42 curriculum and involves recreating functions from the standard C library along with additional utility functions.
 
