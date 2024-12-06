@@ -10,7 +10,7 @@ Welcome to **Libft**, your first custom C library! This project is part of the 4
 
 | **Category**            | **Functions**                                                                                           |
 |-------------------------|--------------------------------------------------------------------------------------------------------|
-| **String Manipulation**  | `ft_strlen`, `ft_strdup`| `ft_strjoin`, `ft_strtrim`, `ft_split`, `ft_substr`                         |
+| **String Manipulation**  | `ft_strlen`, `ft_strdup`, `ft_strjoin`, `ft_strtrim`, `ft_split`, `ft_substr`                         |
 | **Conversions**          | `ft_itoa`, `ft_atoi`, `ft_tolower`, `ft_toupper`                                                      |
 | **Memory Management**    | `ft_memset`, `ft_bzero`, `ft_memcpy`, `ft_memmove`, `ft_memcmp`, `ft_memchr`, `ft_calloc`             |
 | **Checks**               | `ft_isalpha`, `ft_isdigit`, `ft_isalnum`, `ft_isascii`, `ft_isprint`                                  |
