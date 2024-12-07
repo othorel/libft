@@ -8,10 +8,11 @@ Welcome to **Libft**, your first custom C library! This project is part of the 4
 
 ---
 
-## Status
 <div align="center">
   <img height="200" src="https://raw.githubusercontent.com/Benjamin-poisson/My_image_bank/refs/heads/main/born2beroot_succes.png"  />
 </div>
+
+---
 
 ## 📋 Project Overview
 
