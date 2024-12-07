@@ -61,3 +61,21 @@ Use the **Makefile** to compile the library.
 - **Compile the library:**
   ```bash
   make
+- **Clean the project (remove object files):**
+  ```bash
+  make clean
+- **Full cleanup (remove all generated files):**
+  ```bash
+  make fclean
+- **Recompile after cleaning:**
+  ```bash
+  make re
+  ```
+  ---
+
+## 🤝 Contributing
+If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request!
+---
+## 🏆 Acknowledgments
+A big thank you to the open-source community and all the resources that helped in the creation of this project.
+---
