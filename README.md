@@ -74,8 +74,8 @@ Use the **Makefile** to compile the library.
   ---
 
 ## 🤝 Contributing
-If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request!
+#### If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request!
 ---
 ## 🏆 Acknowledgments
-A big thank you to the open-source community and all the resources that helped in the creation of this project.
+#### A big thank you to the open-source community and all the resources that helped in the creation of this project.
 ---
